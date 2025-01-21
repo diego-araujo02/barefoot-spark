@@ -1,7 +1,9 @@
 
 .bloop/
 # Ignorar arquivos .jar grandes
-/lib/*.jar
+lib/*
+!lib/
+
 
 # Ignorar diretórios de compilação e artefatos
 /target/
