@@ -1,0 +1,23 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/diego/barefootSpark/barefootsparkhdfs/target/scala-2.13/hello-world_2.13-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MapMatchingJob.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/diego/barefootSpark/barefootsparkhdfs/target/scala-2.13/classes/MapMatchingJob.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/diego/barefootSpark/barefootsparkhdfs/target/scala-2.13/classes/com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/example[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/diego/barefootSpark/barefootsparkhdfs/target/scala-2.13/classes/com/example[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/example/barefoot_spark[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/diego/barefootSpark/barefootsparkhdfs/target/scala-2.13/classes/com/example/barefoot_spark[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/example/barefoot_spark/BroadcastMatcher.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/diego/barefootSpark/barefootsparkhdfs/target/scala-2.13/classes/com/example/barefoot_spark/BroadcastMatcher.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/example/barefoot_spark/HadoopMapReader.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/diego/barefootSpark/barefootsparkhdfs/target/scala-2.13/classes/com/example/barefoot_spark/HadoopMapReader.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/example/barefoot_spark/BroadcastMatcher$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/diego/barefootSpark/barefootsparkhdfs/target/scala-2.13/classes/com/example/barefoot_spark/BroadcastMatcher$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MapMatchingJob$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/diego/barefootSpark/barefootsparkhdfs/target/scala-2.13/classes/MapMatchingJob$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/diego/barefootSpark/barefootsparkhdfs/target/scala-2.13/classes/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/diego/barefootSpark/barefootsparkhdfs/target/scala-2.13/classes/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

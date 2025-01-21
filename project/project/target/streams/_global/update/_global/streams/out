@@ -1,0 +1,7 @@
+[0m[[0m[0mdebug[0m] [0m[0mnot up to date. inChanged = true, force = false[0m
+[0m[[0m[0mdebug[0m] [0m[0mUpdating ProjectRef(uri("file:/home/diego/barefootSpark/barefootsparkhdfs/project/project/"), "barefootsparkhdfs-build-build")...[0m
+[0m[[0m[0minfo[0m] [0m[0mUpdating barefootsparkhdfs-build-build[0m
+[0m[[0m[0minfo[0m] [0m[0mResolved barefootsparkhdfs-build-build dependencies[0m
+[0m[[0m[0minfo[0m] [0m[0mFetching artifacts of barefootsparkhdfs-build-build[0m
+[0m[[0m[0minfo[0m] [0m[0mFetched artifacts of barefootsparkhdfs-build-build[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone updating ProjectRef(uri("file:/home/diego/barefootSpark/barefootsparkhdfs/project/project/"), "barefootsparkhdfs-build-build")[0m
