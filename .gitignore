@@ -1,5 +1,18 @@
-.metals/
+
 .bloop/
-target/scala-2.13/hello_world_2.13-1.0.jar
-src/main/scala/com/example/output/matched_results.json
-*.jar
+# Ignorar arquivos .jar grandes
+/lib/*.jar
+
+# Ignorar diretórios de compilação e artefatos
+/target/
+/project/target/
+
+# Ignorar arquivos temporários e de relatórios do Metals
+.metals/.reports/
+
+# Ignorar arquivos temporários de IDEs e editores
+.idea/
+*.iml
+
+# Ignorar arquivos específicos do Metals (IDE)
+.metals/
