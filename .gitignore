@@ -2,3 +2,4 @@
 .bloop/
 target/scala-2.13/hello_world_2.13-1.0.jar
 src/main/scala/com/example/output/matched_results.json
+*.jar
